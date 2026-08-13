@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+
 namespace BTTKForm
 {
     internal static class Program
@@ -16,7 +17,7 @@ namespace BTTKForm
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmBai1());
+            Application.Run(new frmMain());
         }
     }
 }
