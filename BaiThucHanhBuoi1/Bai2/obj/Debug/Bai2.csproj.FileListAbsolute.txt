@@ -1,0 +1,8 @@
+Z:\2012393_DXViet_Lab02\BaiThucHanhBuoi1\Bai2\bin\Debug\Bai2.exe.config
+Z:\2012393_DXViet_Lab02\BaiThucHanhBuoi1\Bai2\bin\Debug\Bai2.exe
+Z:\2012393_DXViet_Lab02\BaiThucHanhBuoi1\Bai2\bin\Debug\Bai2.pdb
+Z:\2012393_DXViet_Lab02\BaiThucHanhBuoi1\Bai2\obj\Debug\Bai2.MainForm.resources
+Z:\2012393_DXViet_Lab02\BaiThucHanhBuoi1\Bai2\obj\Debug\Bai2.Properties.Resources.resources
+Z:\2012393_DXViet_Lab02\BaiThucHanhBuoi1\Bai2\obj\Debug\Bai2.csproj.GenerateResource.Cache
+Z:\2012393_DXViet_Lab02\BaiThucHanhBuoi1\Bai2\obj\Debug\Bai2.exe
+Z:\2012393_DXViet_Lab02\BaiThucHanhBuoi1\Bai2\obj\Debug\Bai2.pdb

@@ -1,0 +1,9 @@
+Z:\2012393_DXViet_Lab02\BaiThucHanhBuoi1\BaiThucHanhBuoi1\bin\Debug\BaiThucHanhBuoi1.exe.config
+Z:\2012393_DXViet_Lab02\BaiThucHanhBuoi1\BaiThucHanhBuoi1\bin\Debug\BaiThucHanhBuoi1.exe
+Z:\2012393_DXViet_Lab02\BaiThucHanhBuoi1\BaiThucHanhBuoi1\bin\Debug\BaiThucHanhBuoi1.pdb
+Z:\2012393_DXViet_Lab02\BaiThucHanhBuoi1\BaiThucHanhBuoi1\obj\Debug\BaiThucHanhBuoi1.csprojResolveAssemblyReference.cache
+Z:\2012393_DXViet_Lab02\BaiThucHanhBuoi1\BaiThucHanhBuoi1\obj\Debug\BaiThucHanhBuoi1.Properties.Resources.resources
+Z:\2012393_DXViet_Lab02\BaiThucHanhBuoi1\BaiThucHanhBuoi1\obj\Debug\BaiThucHanhBuoi1.csproj.GenerateResource.Cache
+Z:\2012393_DXViet_Lab02\BaiThucHanhBuoi1\BaiThucHanhBuoi1\obj\Debug\BaiThucHanhBuoi1.exe
+Z:\2012393_DXViet_Lab02\BaiThucHanhBuoi1\BaiThucHanhBuoi1\obj\Debug\BaiThucHanhBuoi1.pdb
+Z:\2012393_DXViet_Lab02\BaiThucHanhBuoi1\BaiThucHanhBuoi1\obj\Debug\BaiThucHanhBuoi1.MainForm.resources
