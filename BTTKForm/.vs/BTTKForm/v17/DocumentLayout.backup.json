@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\git\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng Desktop\\BTTKForm\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F02074A5-0025-408D-92BF-2A21B132A69B}|BTTKForm\\BTTKForm.csproj|d:\\git\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\bttkform\\bttkform\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F02074A5-0025-408D-92BF-2A21B132A69B}|BTTKForm\\BTTKForm.csproj|solutionrelative:bttkform\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F02074A5-0025-408D-92BF-2A21B132A69B}|BTTKForm\\BTTKForm.csproj|d:\\git\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\bttkform\\bttkform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F02074A5-0025-408D-92BF-2A21B132A69B}|BTTKForm\\BTTKForm.csproj|solutionrelative:bttkform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F02074A5-0025-408D-92BF-2A21B132A69B}|BTTKForm\\BTTKForm.csproj|d:\\git\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\bttkform\\bttkform\\frmbai4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F02074A5-0025-408D-92BF-2A21B132A69B}|BTTKForm\\BTTKForm.csproj|solutionrelative:bttkform\\frmbai4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F02074A5-0025-408D-92BF-2A21B132A69B}|BTTKForm\\BTTKForm.csproj|d:\\git\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\bttkform\\bttkform\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F02074A5-0025-408D-92BF-2A21B132A69B}|BTTKForm\\BTTKForm.csproj|solutionrelative:bttkform\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F02074A5-0025-408D-92BF-2A21B132A69B}|BTTKForm\\BTTKForm.csproj|d:\\git\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\bttkform\\bttkform\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,13 +78,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "frmMain.Designer.cs",
               "DocumentMoniker": "D:\\git\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng Desktop\\BTTKForm\\BTTKForm\\frmMain.Designer.cs",
               "RelativeDocumentMoniker": "BTTKForm\\frmMain.Designer.cs",
               "ToolTip": "D:\\git\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng Desktop\\BTTKForm\\BTTKForm\\frmMain.Designer.cs*",
               "RelativeToolTip": "BTTKForm\\frmMain.Designer.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAswHMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-13T16:26:04.581Z",
               "EditorCaption": ""
@@ -95,8 +95,8 @@
               "Title": "frmMain.cs",
               "DocumentMoniker": "D:\\git\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng Desktop\\BTTKForm\\BTTKForm\\frmMain.cs",
               "RelativeDocumentMoniker": "BTTKForm\\frmMain.cs",
-              "ToolTip": "D:\\git\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng Desktop\\BTTKForm\\BTTKForm\\frmMain.cs*",
-              "RelativeToolTip": "BTTKForm\\frmMain.cs*",
+              "ToolTip": "D:\\git\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng Desktop\\BTTKForm\\BTTKForm\\frmMain.cs",
+              "RelativeToolTip": "BTTKForm\\frmMain.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-13T16:25:41.864Z",
@@ -108,20 +108,20 @@
               "Title": "frmMain.cs [Design]",
               "DocumentMoniker": "D:\\git\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng Desktop\\BTTKForm\\BTTKForm\\frmMain.cs",
               "RelativeDocumentMoniker": "BTTKForm\\frmMain.cs",
-              "ToolTip": "D:\\git\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng Desktop\\BTTKForm\\BTTKForm\\frmMain.cs [Design]*",
-              "RelativeToolTip": "BTTKForm\\frmMain.cs [Design]*",
+              "ToolTip": "D:\\git\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng Desktop\\BTTKForm\\BTTKForm\\frmMain.cs [Design]",
+              "RelativeToolTip": "BTTKForm\\frmMain.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-13T16:25:14.508Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "frmBai4.Designer.cs",
               "DocumentMoniker": "D:\\git\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng Desktop\\BTTKForm\\BTTKForm\\frmBai4.Designer.cs",
               "RelativeDocumentMoniker": "BTTKForm\\frmBai4.Designer.cs",
-              "ToolTip": "D:\\git\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng Desktop\\BTTKForm\\BTTKForm\\frmBai4.Designer.cs*",
-              "RelativeToolTip": "BTTKForm\\frmBai4.Designer.cs*",
+              "ToolTip": "D:\\git\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng Desktop\\BTTKForm\\BTTKForm\\frmBai4.Designer.cs",
+              "RelativeToolTip": "BTTKForm\\frmBai4.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-13T16:23:05.962Z",
@@ -129,12 +129,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "frmBai4.cs",
               "DocumentMoniker": "D:\\git\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng Desktop\\BTTKForm\\BTTKForm\\frmBai4.cs",
               "RelativeDocumentMoniker": "BTTKForm\\frmBai4.cs",
-              "ToolTip": "D:\\git\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng Desktop\\BTTKForm\\BTTKForm\\frmBai4.cs*",
-              "RelativeToolTip": "BTTKForm\\frmBai4.cs*",
+              "ToolTip": "D:\\git\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng Desktop\\BTTKForm\\BTTKForm\\frmBai4.cs",
+              "RelativeToolTip": "BTTKForm\\frmBai4.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-13T16:22:40.431Z",
@@ -142,12 +142,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "frmBai4.cs [Design]",
               "DocumentMoniker": "D:\\git\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng Desktop\\BTTKForm\\BTTKForm\\frmBai4.cs",
               "RelativeDocumentMoniker": "BTTKForm\\frmBai4.cs",
-              "ToolTip": "D:\\git\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng Desktop\\BTTKForm\\BTTKForm\\frmBai4.cs [Design]*",
-              "RelativeToolTip": "BTTKForm\\frmBai4.cs [Design]*",
+              "ToolTip": "D:\\git\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng Desktop\\BTTKForm\\BTTKForm\\frmBai4.cs [Design]",
+              "RelativeToolTip": "BTTKForm\\frmBai4.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-13T16:22:33.208Z",
               "EditorCaption": " [Design]"
@@ -218,12 +218,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\git\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng Desktop\\BTTKForm\\BTTKForm\\Program.cs",
               "RelativeDocumentMoniker": "BTTKForm\\Program.cs",
-              "ToolTip": "D:\\git\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng Desktop\\BTTKForm\\BTTKForm\\Program.cs*",
-              "RelativeToolTip": "BTTKForm\\Program.cs*",
+              "ToolTip": "D:\\git\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng Desktop\\BTTKForm\\BTTKForm\\Program.cs",
+              "RelativeToolTip": "BTTKForm\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-13T16:04:47.564Z",
